@@ -46,3 +46,4 @@ python calculadora.py
 
 Sinta-se à vontade para melhorar o código ou adicionar mais funcionalidades!
 
+FIM
